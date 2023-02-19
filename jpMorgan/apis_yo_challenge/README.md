@@ -26,6 +26,14 @@ The bot then sends the prompt to the DALL-E API, which generates a unique image 
 
 **Demonstration**
 
+Example 1: "!fusion Onix Flygon"
+
+![onix_flygon](1.gif)
+
+Example 2: "!fusion Squirtle Pikachu"
+
+![squirtle_pikachu](2.gif)
+
 **Conclusion**
 
 It is a fun and an educational project that demonstrates how different APIs can be used together to create unique and interesting applications. 

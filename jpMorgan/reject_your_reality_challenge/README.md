@@ -1,4 +1,4 @@
-# Code Olympics 2023 JP Morgan Challenges & Solutions
+# Code Olympics 2023 JP Morgan Challenges & Solutions (Team 25)
 
 A 24-hour event for teams to solve bite-sized coding challenges set by GUTS and Industry Experts!
 

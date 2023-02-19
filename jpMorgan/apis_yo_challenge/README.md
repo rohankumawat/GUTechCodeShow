@@ -1,4 +1,4 @@
-# Code Olympics 2023 JP Morgan Challenges & Solutions
+# Code Olympics 2023 JP Morgan Challenges & Solutions (Team 25)
 
 A 24-hour event for teams to solve bite-sized coding challenges set by GUTS and Industry Experts!
 
@@ -25,6 +25,14 @@ The Pokemon Fusion Project allows users to enter the names of two Pokemon using 
 The bot then sends the prompt to the DALL-E API, which generates a unique image of a fusion between the two Pokemon. The image is then sent back to the user on Discord, allowing them to see the result of the fusion.
 
 **Demonstration**
+
+Example 1: "!fusion Onix Flygon"
+
+![onix_flygon](1.gif)
+
+Example 2: "!fusion Squirtle Pikachu"
+
+![squirtle_pikachu](2.gif)
 
 **Conclusion**
 
